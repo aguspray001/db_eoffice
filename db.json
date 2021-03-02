@@ -31,67 +31,6 @@
   ],
   "messages": [
     {
-      "id": 1,
-      "agenda": "031",
-      "nomor_surat": "",
-      "tanggal": "2021-03-24T17:00:00.000Z",
-      "pengirim": "Agus Prayudi",
-      "sifat": [
-        "Red"
-      ],
-      "jenis": [
-        "Purple"
-      ],
-      "penerima": [
-        {
-          "id": 5,
-          "label": "Abdul Khoifan",
-          "jabatan": "Sekretaris Desa"
-        }
-      ],
-      "perihal": "Penangguhan",
-      "unit": [
-        "Red"
-      ],
-      "content": "<p>Kedua pihak yang tersebut di atas bersepakat untuk mengadakan perjanjian kerjasama usaha dengan ketentuan yang diatur dengan pasal berikut:</p><ol><li>Pihak Pertama selaku pemilik modal dengan ini menyerahkan sejumlah uang sebesar Rp. 100.000.000 (Seratus Juta Rupiah)&nbsp;kepada Pihak Kedua. Uang tersebut bertujuan&nbsp;untuk permodalan menjalankan usaha kuliner</li><li>Pengelola modal adalah pihak kedua yang bertanggungjawab untuk mengelola usaha sebagaimana tercantum dalam Pasal 1 Ayat 1</li><li>Pihak Kedua menerima modal dalam bentuk uang dari Pihak Pertama yang diserahkan saat perjanjian ini disepakati dan ditandatangani atau paling lambat satu hari setelah dilakukannya kesepakatan</li></ol>",
-      "tembusan": [
-        {
-          "id": 1,
-          "label": "Dr. Subagio S.Pd",
-          "jabatan": "kepala pusat"
-        },
-        {
-          "id": 2,
-          "label": "Dr. Bakyio S.Pd",
-          "jabatan": "wakil kepada 1"
-        },
-        {
-          "id": 3,
-          "label": "Dr. Sumanto S.Pd",
-          "jabatan": "wakil kepada 2"
-        },
-        {
-          "id": 4,
-          "label": "Dr. Stone S.Pd",
-          "jabatan": "wakil kepada 3"
-        }
-      ],
-      "penanda_tangan": "Dr. Endra Pitowarno",
-      "klasifikasi": [
-        "Red"
-      ],
-      "category": {
-        "id": 2,
-        "nama": "surat keluar"
-      },
-      "access": false,
-      "forward": [],
-      "status": [],
-      "final": false,
-      "komentar": [],
-      "nomor": "S-317/AG/AG.3/2020"
-    },
-    {
       "id": 2,
       "agenda": "031",
       "nomor_surat": "",
@@ -202,57 +141,6 @@
       "final": null,
       "komentar": [],
       "nomor": "A321"
-    },
-    {
-      "id": 4,
-      "agenda": "3421",
-      "nomor_surat": "",
-      "tanggal": "2021-03-01T17:00:00.000Z",
-      "pengirim": "Agus Prayudi",
-      "sifat": [
-        "Red"
-      ],
-      "jenis": [
-        "Orange"
-      ],
-      "penerima": [
-        {
-          "id": 1,
-          "label": "Dr. Subagio S.Pd",
-          "jabatan": "kepala pusat"
-        },
-        {
-          "id": 2,
-          "label": "Dr. Bakyio S.Pd",
-          "jabatan": "wakil kepada 1"
-        }
-      ],
-      "perihal": "Penangguhan",
-      "unit": [
-        "Orange"
-      ],
-      "content": "<p>Kedua pihak yang tersebut di atas bersepakat untuk mengadakan perjanjian kerjasama usaha dengan ketentuan yang diatur dengan pasal berikut:</p><ol><li>Pihak Pertama selaku pemilik modal dengan ini menyerahkan sejumlah uang sebesar Rp. 100.000.000 (Seratus Juta Rupiah)&nbsp;kepada Pihak Kedua. Uang tersebut bertujuan&nbsp;untuk permodalan menjalankan usaha kuliner</li><li>Pengelola modal adalah pihak kedua yang bertanggungjawab untuk mengelola usaha sebagaimana tercantum dalam Pasal 1 Ayat 1</li><li>Pihak Kedua menerima modal dalam bentuk uang dari Pihak Pertama yang diserahkan saat perjanjian ini disepakati dan ditandatangani atau paling lambat satu hari setelah dilakukannya kesepakatan</li></ol>",
-      "tembusan": [
-        {
-          "id": 1,
-          "label": "Dr. Subagio S.Pd",
-          "jabatan": "kepala pusat"
-        }
-      ],
-      "penanda_tangan": "Agus Prayudi",
-      "klasifikasi": [
-        "Orange"
-      ],
-      "category": {
-        "id": 2,
-        "nama": "surat keluar"
-      },
-      "access": false,
-      "forward": [],
-      "status": [],
-      "final": null,
-      "komentar": [],
-      "nomor": "A432/2020"
     },
     {
       "id": 5,
