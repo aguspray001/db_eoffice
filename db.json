@@ -1,0 +1,313 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "nama": "Surat Masuk"
+    },
+    {
+      "id": 2,
+      "nama": "Surat Keluar"
+    },
+    {
+      "id": 3,
+      "nama": "Informasi Masuk"
+    },
+    {
+      "id": 4,
+      "nama": "Informasi Keluar"
+    },
+    {
+      "id": 5,
+      "nama": "Disposisi Masuk"
+    },
+    {
+      "id": 6,
+      "nama": "Disposisi Keluar"
+    },
+    {
+      "id": 7,
+      "nama": "Notulensi Masuk"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "agenda": "031",
+      "nomor_surat": "",
+      "tanggal": "2021-03-24T17:00:00.000Z",
+      "pengirim": "Agus Prayudi",
+      "sifat": [
+        "Red"
+      ],
+      "jenis": [
+        "Purple"
+      ],
+      "penerima": [
+        {
+          "id": 5,
+          "label": "Abdul Khoifan",
+          "jabatan": "Sekretaris Desa"
+        }
+      ],
+      "perihal": "Penangguhan",
+      "unit": [
+        "Red"
+      ],
+      "content": "<p>Kedua pihak yang tersebut di atas bersepakat untuk mengadakan perjanjian kerjasama usaha dengan ketentuan yang diatur dengan pasal berikut:</p><ol><li>Pihak Pertama selaku pemilik modal dengan ini menyerahkan sejumlah uang sebesar Rp. 100.000.000 (Seratus Juta Rupiah)&nbsp;kepada Pihak Kedua. Uang tersebut bertujuan&nbsp;untuk permodalan menjalankan usaha kuliner</li><li>Pengelola modal adalah pihak kedua yang bertanggungjawab untuk mengelola usaha sebagaimana tercantum dalam Pasal 1 Ayat 1</li><li>Pihak Kedua menerima modal dalam bentuk uang dari Pihak Pertama yang diserahkan saat perjanjian ini disepakati dan ditandatangani atau paling lambat satu hari setelah dilakukannya kesepakatan</li></ol>",
+      "tembusan": [
+        {
+          "id": 1,
+          "label": "Dr. Subagio S.Pd",
+          "jabatan": "kepala pusat"
+        },
+        {
+          "id": 2,
+          "label": "Dr. Bakyio S.Pd",
+          "jabatan": "wakil kepada 1"
+        },
+        {
+          "id": 3,
+          "label": "Dr. Sumanto S.Pd",
+          "jabatan": "wakil kepada 2"
+        },
+        {
+          "id": 4,
+          "label": "Dr. Stone S.Pd",
+          "jabatan": "wakil kepada 3"
+        }
+      ],
+      "penanda_tangan": "Dr. Endra Pitowarno",
+      "klasifikasi": [
+        "Red"
+      ],
+      "category": {
+        "id": 2,
+        "nama": "surat keluar"
+      },
+      "access": false,
+      "forward": [],
+      "status": [],
+      "final": false,
+      "komentar": [],
+      "nomor": "S-317/AG/AG.3/2020"
+    },
+    {
+      "id": 2,
+      "agenda": "031",
+      "nomor_surat": "",
+      "tanggal": "2021-03-03T17:00:00.000Z",
+      "pengirim": "Agus Prayudi",
+      "sifat": [
+        "Orange"
+      ],
+      "jenis": [
+        "Orange"
+      ],
+      "penerima": [
+        {
+          "id": 4,
+          "label": "Dr. Stone S.Pd",
+          "jabatan": "wakil kepada 3"
+        }
+      ],
+      "perihal": "Penangguhan",
+      "unit": [
+        "Red"
+      ],
+      "content": "<p>Kedua pihak yang tersebut di atas bersepakat untuk mengadakan perjanjian kerjasama usaha dengan ketentuan yang diatur dengan pasal berikut:</p><ol><li>Pihak Pertama selaku pemilik modal dengan ini menyerahkan sejumlah uang sebesar Rp. 100.000.000 (Seratus Juta Rupiah)&nbsp;kepada Pihak Kedua. Uang tersebut bertujuan&nbsp;untuk permodalan menjalankan usaha kuliner</li></ol>",
+      "tembusan": [
+        {
+          "id": 1,
+          "label": "Dr. Subagio S.Pd",
+          "jabatan": "kepala pusat"
+        },
+        {
+          "id": 4,
+          "label": "Dr. Stone S.Pd",
+          "jabatan": "wakil kepada 3"
+        }
+      ],
+      "penanda_tangan": "Agus Prayudi",
+      "klasifikasi": [
+        "Red"
+      ],
+      "category": {
+        "id": 2,
+        "nama": "surat keluar"
+      },
+      "access": false,
+      "forward": [],
+      "status": [],
+      "final": null,
+      "komentar": [],
+      "nomor": "321/D-231/2021"
+    },
+    {
+      "id": 3,
+      "agenda": "031",
+      "nomor_surat": "",
+      "tanggal": "2021-03-11T17:00:00.000Z",
+      "pengirim": "Agus Prayudi",
+      "sifat": [
+        "Red"
+      ],
+      "jenis": [
+        "Purple"
+      ],
+      "penerima": [
+        {
+          "id": 3,
+          "label": "Dr. Sumanto S.Pd",
+          "jabatan": "wakil kepada 2"
+        }
+      ],
+      "perihal": "Penugasan",
+      "unit": [
+        "Purple"
+      ],
+      "content": "<p>Kedua pihak yang tersebut di atas bersepakat untuk mengadakan perjanjian kerjasama usaha dengan ketentuan yang diatur dengan pasal berikut:</p><ol><li>Pihak Pertama selaku pemilik modal dengan ini menyerahkan sejumlah uang sebesar Rp. 100.000.000 (Seratus Juta Rupiah)&nbsp;kepada Pihak Kedua. </li><li>6ttesting</li></ol>",
+      "tembusan": [
+        {
+          "id": 1,
+          "label": "Dr. Subagio S.Pd",
+          "jabatan": "kepala pusat"
+        },
+        {
+          "id": 2,
+          "label": "Dr. Bakyio S.Pd",
+          "jabatan": "wakil kepada 1"
+        },
+        {
+          "id": 3,
+          "label": "Dr. Sumanto S.Pd",
+          "jabatan": "wakil kepada 2"
+        },
+        {
+          "id": 4,
+          "label": "Dr. Stone S.Pd",
+          "jabatan": "wakil kepada 3"
+        }
+      ],
+      "penanda_tangan": "Agus Prayudi",
+      "klasifikasi": [
+        "Red"
+      ],
+      "category": {
+        "id": 2,
+        "nama": "surat keluar"
+      },
+      "access": false,
+      "forward": [],
+      "status": [],
+      "final": null,
+      "komentar": [],
+      "nomor": "A321"
+    },
+    {
+      "id": 4,
+      "agenda": "3421",
+      "nomor_surat": "",
+      "tanggal": "2021-03-01T17:00:00.000Z",
+      "pengirim": "Agus Prayudi",
+      "sifat": [
+        "Red"
+      ],
+      "jenis": [
+        "Orange"
+      ],
+      "penerima": [
+        {
+          "id": 1,
+          "label": "Dr. Subagio S.Pd",
+          "jabatan": "kepala pusat"
+        },
+        {
+          "id": 2,
+          "label": "Dr. Bakyio S.Pd",
+          "jabatan": "wakil kepada 1"
+        }
+      ],
+      "perihal": "Penangguhan",
+      "unit": [
+        "Orange"
+      ],
+      "content": "<p>Kedua pihak yang tersebut di atas bersepakat untuk mengadakan perjanjian kerjasama usaha dengan ketentuan yang diatur dengan pasal berikut:</p><ol><li>Pihak Pertama selaku pemilik modal dengan ini menyerahkan sejumlah uang sebesar Rp. 100.000.000 (Seratus Juta Rupiah)&nbsp;kepada Pihak Kedua. Uang tersebut bertujuan&nbsp;untuk permodalan menjalankan usaha kuliner</li><li>Pengelola modal adalah pihak kedua yang bertanggungjawab untuk mengelola usaha sebagaimana tercantum dalam Pasal 1 Ayat 1</li><li>Pihak Kedua menerima modal dalam bentuk uang dari Pihak Pertama yang diserahkan saat perjanjian ini disepakati dan ditandatangani atau paling lambat satu hari setelah dilakukannya kesepakatan</li></ol>",
+      "tembusan": [
+        {
+          "id": 1,
+          "label": "Dr. Subagio S.Pd",
+          "jabatan": "kepala pusat"
+        }
+      ],
+      "penanda_tangan": "Agus Prayudi",
+      "klasifikasi": [
+        "Orange"
+      ],
+      "category": {
+        "id": 2,
+        "nama": "surat keluar"
+      },
+      "access": false,
+      "forward": [],
+      "status": [],
+      "final": null,
+      "komentar": [],
+      "nomor": "A432/2020"
+    },
+    {
+      "id": 5,
+      "agenda": "123A",
+      "nomor_surat": "",
+      "tanggal": "2021-03-09T17:00:00.000Z",
+      "pengirim": "Jhonn Chena",
+      "sifat": [
+        "Rahasia"
+      ],
+      "jenis": [
+        "Surat Perintah"
+      ],
+      "penerima": [
+        {
+          "id": 3,
+          "label": "Dr. Sumanto S.Pd",
+          "jabatan": "wakil kepada 2"
+        }
+      ],
+      "perihal": "Kolaborasi",
+      "unit": [
+        "Surat Perintah"
+      ],
+      "content": "<p>Kedua pihak yang tersebut di atas bersepakat untuk mengadakan perjanjian kerjasama usaha dengan ketentuan yang diatur dengan pasal berikut:</p><ol><li>Pihak Pertama selaku pemilik modal dengan ini menyerahkan sejumlah uang sebesar Rp. 100.000.000 (Seratus Juta Rupiah)&nbsp;kepada Pihak Kedua. Uang tersebut bertujuan&nbsp;untuk permodalan menjalankan usaha kuliner</li><li>Pengelola modal adalah pihak kedua yang bertanggungjawab untuk mengelola usaha sebagaimana tercantum dalam Pasal 1 Ayat 1</li><li>Pihak Kedua menerima modal dalam bentuk uang dari Pihak Pertama yang diserahkan saat perjanjian ini disepakati dan ditandatangani atau paling lambat satu hari setelah dilakukannya kesepakatan</li></ol>",
+      "tembusan": [
+        {
+          "id": 4,
+          "label": "Dr. Stone S.Pd",
+          "jabatan": "wakil kepada 3"
+        },
+        {
+          "id": 5,
+          "label": "Paijo",
+          "jabatan": "Ketua RT"
+        }
+      ],
+      "penanda_tangan": "Jhon Chena",
+      "klasifikasi": [
+        "Surat Perintah"
+      ],
+      "category": {
+        "id": 2,
+        "nama": "surat keluar"
+      },
+      "access": false,
+      "forward": [],
+      "status": [],
+      "final": null,
+      "komentar": [],
+      "nomor": "A12/2020"
+    }
+  ],
+  "suratmasuk": [],
+  "suratkeluar": [],
+  "archive": [],
+  "starred": []
+}
